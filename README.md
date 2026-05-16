@@ -5,6 +5,4 @@ A simple and modern calculator built using:
 - CSS
 - JavaScript
 - 
-## 📸 Screenshot
-
-![img](screenshot.png)
+![Screenshot](Screenshot.png)
