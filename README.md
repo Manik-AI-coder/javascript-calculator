@@ -7,4 +7,4 @@ A simple and modern calculator built using:
 - 
 ## 📸 Screenshot
 
-![Calculator Screenshot](screenshot.png)
+![img](screenshot.png)
